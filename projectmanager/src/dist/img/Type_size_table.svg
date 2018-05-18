@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="962px" height="661px" viewBox="0 0 962 661" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Type_size table</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Sketches" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Type_size-table" transform="translate(1.000000, -5.000000)">
+            <text id="XXLarge" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="42" font-weight="bold" line-spacing="48" letter-spacing="-1.20000005" fill="#191611">
+                <tspan x="30" y="231">XXLarge </tspan>
+            </text>
+            <text id="42pt" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="42" font-weight="bold" line-spacing="48" letter-spacing="-1.20000005" fill="#191611">
+                <tspan x="841" y="231">42pt</tspan>
+            </text>
+            <text id="XXXLarge" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="48" font-weight="bold" line-spacing="48" letter-spacing="-1.25999999" fill="#191611">
+                <tspan x="30" y="144">XXXLarge </tspan>
+            </text>
+            <text id="48pt" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="48" font-weight="bold" line-spacing="48" letter-spacing="-1.25999999" fill="#191611">
+                <tspan x="841" y="144">48pt</tspan>
+            </text>
+            <text id="XLarge" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="36" font-weight="bold" line-spacing="36" letter-spacing="-1.02857149" fill="#191611">
+                <tspan x="30" y="317">XLarge</tspan>
+            </text>
+            <text id="36pt" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="36" font-weight="bold" line-spacing="36" letter-spacing="-1.02857149" fill="#191611">
+                <tspan x="841" y="317">36pt</tspan>
+            </text>
+            <text id="Small" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" line-spacing="24" fill="#191611">
+                <tspan x="30" y="536">Small</tspan>
+            </text>
+            <text id="18pt" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" line-spacing="24" fill="#191611">
+                <tspan x="841" y="536">18pt</tspan>
+            </text>
+            <text id="Small" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="18" font-weight="400" line-spacing="24" fill="#191611">
+                <tspan x="240" y="536">Small</tspan>
+            </text>
+            <text id="Small" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" line-spacing="24" fill="#191611">
+                <tspan x="480" y="535">Small</tspan>
+            </text>
+            <text id="Large" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" line-spacing="36" letter-spacing="-0.5" fill="#191611">
+                <tspan x="30" y="392">Large</tspan>
+            </text>
+            <text id="30pt" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" line-spacing="36" letter-spacing="-0.5" fill="#191611">
+                <tspan x="841" y="392">30pt</tspan>
+            </text>
+            <text id="Large" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="30" font-weight="400" line-spacing="36" letter-spacing="-0.5" fill="#191611">
+                <tspan x="240" y="392">Large</tspan>
+            </text>
+            <text id="XXSmall" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" line-spacing="15" fill="#191611">
+                <tspan x="30" y="663">XXSmall</tspan>
+            </text>
+            <text id="XXSmall-Copy" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" line-spacing="15" fill="#191611">
+                <tspan x="240" y="663">XXSmall</tspan>
+            </text>
+            <text id="12pt" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" line-spacing="15" fill="#191611">
+                <tspan x="841" y="663">12pt</tspan>
+            </text>
+            <text id="XSmall" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="15" fill="#191611">
+                <tspan x="480" y="662">XSmall</tspan>
+            </text>
+            <text id="XSmall" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" line-spacing="18" fill="#191611">
+                <tspan x="30" y="603">XSmall</tspan>
+            </text>
+            <text id="15pt" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" line-spacing="18" fill="#191611">
+                <tspan x="841" y="603">15pt</tspan>
+            </text>
+            <text id="XSmall" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="15" font-weight="400" line-spacing="18" fill="#191611">
+                <tspan x="240" y="603">XSmall</tspan>
+            </text>
+            <text id="XSmall" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" line-spacing="18" fill="#191611">
+                <tspan x="480" y="602">XSmall</tspan>
+            </text>
+            <text id="Medium" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="30" fill="#191611">
+                <tspan x="30" y="469">Medium</tspan>
+            </text>
+            <text id="24pt" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="30" fill="#191611">
+                <tspan x="841" y="469">24pt</tspan>
+            </text>
+            <text id="Medium" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="24" font-weight="400" line-spacing="30" fill="#191611">
+                <tspan x="240" y="469">Medium</tspan>
+            </text>
+            <text id="Bold" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="-0.629999995" fill="#191611">
+                <tspan x="30" y="23">Bold</tspan>
+            </text>
+            <text id="Points" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="-0.629999995" fill="#191611">
+                <tspan x="841" y="23">Points</tspan>
+            </text>
+            <text id="Medium" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="24" font-weight="400" letter-spacing="-0.629999995" fill="#191611">
+                <tspan x="240" y="23">Medium</tspan>
+            </text>
+            <text id="Regular" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.629999995" fill="#191611">
+                <tspan x="480" y="23">Regular</tspan>
+            </text>
+            <path d="M0,153 L960,153" id="Line" stroke="#000000" stroke-linecap="square"></path>
+            <path d="M0,243 L960,243" id="Line-Copy" stroke="#000000" stroke-linecap="square"></path>
+            <path d="M0,326 L960,326" id="Line-Copy-2" stroke="#000000" stroke-linecap="square"></path>
+            <path d="M0,405 L960,405" id="Line-Copy-3" stroke="#000000" stroke-linecap="square"></path>
+            <path d="M0,483 L960,483" id="Line-Copy-4" stroke="#000000" stroke-linecap="square"></path>
+            <path d="M0,549 L960,549" id="Line-Copy-5" stroke="#000000" stroke-linecap="square"></path>
+            <path d="M0,615 L960,615" id="Line-Copy-6" stroke="#000000" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

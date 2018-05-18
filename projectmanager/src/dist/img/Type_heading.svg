@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="717px" height="61px" viewBox="0 0 717 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Type_heading</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Sketches" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="66" font-weight="bold" letter-spacing="-2.75" line-spacing="140" opacity="0.699999988">
+        <g id="Type_heading" transform="translate(-4.000000, -49.000000)" fill="#191611">
+            <text id="Heading">
+                <tspan x="0" y="64">Heading</tspan>
+            </text>
+            <text id="Heading" opacity="0.200000003">
+                <tspan x="480" y="64">Heading</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
