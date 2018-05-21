@@ -35,22 +35,44 @@ class App extends Component {
         });
     }
 
+    //hanterar att statet (som är immutable) förändras
     handleAddProject(project){
-        console.log(project);
+        console.log("Log from App.js, handleAddProject" + project);
         let projects = this.state.projects;
         projects.push(project);
         this.setState({projects:projects});
 
     }
 
+    handleDeleteProject(id){
+        let projects = this.state.projects;
+        let index = projects.findIndex(x => x.id === id);
+        projects.splice(index, 1);
+        this.setState({projects:projects});
+    }
+
     render() {
         return (
             <div className="App">
                 <AddProject addProject={this.handleAddProject.bind(this)}/>
-                <Projects projects={this.state.projects}/>
+                <Projects projects={this.state.projects} onDelete={this.handleDeleteProject.bind(this)}/>
             </div>
         );
     }
 }
 
 export default App;
+
+
+
+
+
+
+
+
+
+
+
+
+
+

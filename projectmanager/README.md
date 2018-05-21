@@ -1,3 +1,10 @@
+Utgår i detta projekt från en utmärkt tutorial på youtube: https://www.youtube.com/watch?v=A71aqufiNtQ
+-React JS Crash Course 
+
+Har hittills kollat ca 42 min 20s av 1h
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

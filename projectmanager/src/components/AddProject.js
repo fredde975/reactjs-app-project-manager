@@ -36,6 +36,8 @@ class AddProject extends Component {
                 console.log(this.state);
                 this.props.addProject(this.state.newProject)
             });
+
+            this.refs.title.value = '';
         }
 
         // console.log(this.refs.title.value);
