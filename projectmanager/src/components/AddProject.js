@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import uuid from 'uuid';
 
 import ProjectItem from "./ProjectItem";
+import Projects from "./Projects";
+import PropTypes from "prop-types";
 
 class AddProject extends Component {
     constructor() {
@@ -71,5 +73,12 @@ class AddProject extends Component {
         );
     }
 }
+
+//verifiera typer på props
+AddProject.propTypes = {
+    categories: PropTypes.array,
+    onDelete: PropTypes.func
+}
+
 
 export default AddProject;
