@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import uuid from 'uuid';
 import $ from 'jquery';
+import axios from 'axios';
 import Projects from './components/Projects';
 import AddProject from './components/AddProject';
 import Todos from './components/Todos';
@@ -15,19 +16,33 @@ class App extends Component {
         }
     }
 
+    getTodosAxios() {
+        axios.get('http://jsonplaceholder.typicode.com/todos')
+            .then(function (data) {
+                console.log('axios data: ' + data);
+                this.setState({todos: data}, function () {
+                    console.log('Log axios: ' +this.state);
+                })
+            })
+            .catch(function (error) {
+                console.log('Error Log axios:' + error);
+            });
+    }
+
+
     getTodos() {
         $.ajax({
             url: 'https://jsonplaceholder.typicode.com/todos',
-            dataType:'json',
+            dataType: 'json',
             cache: false,
-            success: function(data){
-                this.setState({todos: data}, function(){
+            success: function (data) {
+                this.setState({todos: data}, function () {
                     console.log(this.state);
                 })
             }.bind(this),
-            error: function(xhr, status, err){
+            error: function (xhr, status, err) {
                 console.log(err);
-        }
+            }
         })
     }
 
@@ -56,13 +71,15 @@ class App extends Component {
     componentWillMount() {
         this.getProjects();
         this.getTodos();
+        this.getTodosAxios()
     }
 
     componentDidMount() {
         this.getTodos();
+        this.getTodosAxios()
     }
 
-    //hanterar att statet (som är immutable) förändras
+//hanterar att statet (som är immutable) förändras
     handleAddProject(project) {
         console.log("Log from App.js, handleAddProject" + project);
         let projects = this.state.projects;
@@ -83,8 +100,8 @@ class App extends Component {
             <div className="App">
                 <AddProject addProject={this.handleAddProject.bind(this)}/>
                 <Projects projects={this.state.projects} onDelete={this.handleDeleteProject.bind(this)}/>
-            <hr />
-            <Todos todos={this.state.todos}/>
+                <hr/>
+                <Todos todos={this.state.todos}/>
             </div>
         );
     }
